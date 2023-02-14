@@ -1,2 +1,3 @@
 name : parthasarathi mahana
 Qualification : B.Tech CS
+skills : java,html,css,javascript,node,express,mongoDB
