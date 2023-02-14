@@ -1,1 +1,2 @@
 name : parthasarathi mahana
+skills : java,html,css,javascript,node,express,mongoDB
