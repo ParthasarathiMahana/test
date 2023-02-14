@@ -1,0 +1,4 @@
+skills:
+1. DSA in Java
+2. Front End: HTML, CSS, JavaScript
+3. Back End: Node, Express, MongoDB
