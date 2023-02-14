@@ -1,0 +1,3 @@
+B.Tech : 2018
+Branch : Computer Science
+Cgpa : 7.3
